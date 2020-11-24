@@ -1,4 +1,4 @@
-import 'dotenv/config';
+import './boostrap';
 
 import Youch from 'youch';
 import express from 'express';
